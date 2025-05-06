@@ -1,0 +1,1 @@
+# sum-of-100-natural-no.-without-Loop
